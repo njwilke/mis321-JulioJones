@@ -236,3 +236,4 @@ C:\Users\Nick\Desktop\User Files\PA's\mis321-JulioJones\api\bin\Debug\net8.0\run
 C:\Users\Nick\Desktop\User Files\PA's\mis321-JulioJones\api\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
 C:\Users\Nick\Desktop\User Files\PA's\mis321-JulioJones\api\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
 C:\Users\Nick\Desktop\User Files\PA's\mis321-JulioJones\api\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Nick\Desktop\User Files\PA's\mis321-JulioJones\api\obj\Debug\net8.0\api.sourcelink.json

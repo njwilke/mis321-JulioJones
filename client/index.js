@@ -9,7 +9,7 @@ async function handleOnLoad() {
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <h2 style="font-family: monospace; text-align: center;">Work-Outs</h2>
+                <h2 style="font-family: monospace; text-align: center;">Cars</h2>
                 <div id="tableBody"></div>
             </div>
             <div class="col-md-6">
