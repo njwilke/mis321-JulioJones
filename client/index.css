@@ -1,0 +1,39 @@
+.jumbotron{
+    background-color: #800000;
+    text-align: center;
+    color: white;
+}
+
+table, th, td {
+    border: 1px solid;
+}
+
+#workout tr:nth-child(even){background-color: #f2f2f2;}
+
+tr:hover {background-color: #ddd;}
+
+.center{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    align-items: center;
+}
+
+.center-table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#pinned{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    align-items: center;
+    padding-bottom: 1rem;
+    border-style: double;
+    border-color: #800000;
+}
